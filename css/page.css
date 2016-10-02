@@ -1,0 +1,76 @@
+/*text*/
+
+h1 {
+  color: #1C2833;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+
+
+li{
+font-family: 'Open Sans', sans-serif;
+font-weight: 400;
+}
+
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.blockquote {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  color: #909497;
+  list-style-type: none;
+}
+
+blockquote {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  color: #909497;
+  list-style-type: none;
+}
+
+
+#text {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+footer p {
+font-family: 'Open Sans', sans-serif;
+font-style: italic;
+font-size: 9px;
+
+}
+
+body {
+  background-color: #F8F9F9
+
+}
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  text-align: left;
+
+}
