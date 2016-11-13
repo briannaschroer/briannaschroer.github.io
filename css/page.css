@@ -66,6 +66,7 @@ blockquote {
 #welcome {
   width: 100%;
   text-align: center;
+  padding-left: 20px;
 }
 
 footer p {
@@ -101,11 +102,6 @@ body {
   text-decoration: none;
   }
 
-#photo {
-  width: 40%;
-  height: auto;
-}
-
 #about-text {
   text-align: left;
 }
@@ -115,6 +111,12 @@ footer {
   text-align: left;
   padding-top: 100px;
 }
+
+/*front page buttons*/
+
+
+
+
 
 
 /*gallary page*/
